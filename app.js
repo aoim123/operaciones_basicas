@@ -13,3 +13,7 @@ const multiplicar = (y, x) => {
 const dividir = (x, y) => {
   return x / y;
 };
+
+const potencia = (x, y) => {
+  return x ^ y;
+};
